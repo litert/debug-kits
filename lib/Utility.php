@@ -3,8 +3,6 @@ declare (strict_types=1);
 
 namespace L\Debug;
 
-use L\Core\Exception;
-
 class Utility
 {
     /**
